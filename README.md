@@ -4,11 +4,16 @@ For my INFO 2300 Intermediate Web Design & Programming final project, I designed
 
 Cornell transfer students and freshmen often feel disconnected from campus life and struggle to discover what student organizations and events exist. Meanwhile, student organization leaders need an efficient way to promote their events and reach potential attendees. This platform addresses both needs through a dual-interface system with a consumer-facing discovery platform and a secure administrative portal.
 
+![Campus Events Website](campus-event.png)
+
 ## Access the Site
 
-You can access the live site at https://campus-event.page.gd/ or run it locally by opening a GitHub Codespace and starting the development server. 
+You can access the site at https://campus-event.page.gd/ or run it locally by opening a GitHub Codespace and starting the development server. 
 
 To access admin features, use username `ashley.huang` and password `monkey`.
+
+**Admin Credentials:** Username `ashley.huang` | Password `monkey`
+
 
 ## User Goals
 
