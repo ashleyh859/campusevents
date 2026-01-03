@@ -1,16 +1,19 @@
 # Campus Events Catalog
+For my INFO 2300 Intermediate Web Design & Programming final project, I designed and developed a full-stack web application to help new Cornell students discover campus events and enable student organization leaders to manage event postings effectively.
 
 ![Campus Events Website](campus-event.png)
 
-For my INFO 2300 Intermediate Web Design & Programming final project, I designed and developed a full-stack web application to help new Cornell students discover campus events and enable student organization leaders to manage event postings effectively.
-
-## Access the Site
+## Accessing the Site
 
 Live site: https://campus-event.page.gd/
+
+**Admin Credentials:**
 
 | Username | Password |
 |----------|----------|
 | ashley.huang | monkey |
+
+**Local Setup:** Open a GitHub Codespace and run the development server
 
 ## User Goals
 Cornell transfer students and freshmen often feel disconnected from campus life and struggle to discover what student organizations and events exist. Meanwhile, student organization leaders need an efficient way to promote their events and reach potential attendees. This platform addresses both needs through a dual-interface system with a consumer-facing discovery platform and a secure administrative portal.
